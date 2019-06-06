@@ -3,7 +3,7 @@ using namespace std;
  
 int main()
 {
-int a[10000],h,p;
+int a[10000],m,p;
 cin>>p;
 for(int i=0;i<p;i++)
 {
