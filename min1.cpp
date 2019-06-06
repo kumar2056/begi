@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 int a[10000],e,m;
-cin>>h;
+cin>>e;
 for(int i=0;i<e;i++)
 {
 
