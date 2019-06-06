@@ -24,4 +24,5 @@ for(int i=0;i<e;i++)
 
   cout<<a[i]<<" ";  
 }
+ return 0;
 }
