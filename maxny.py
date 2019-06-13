@@ -1,7 +1,7 @@
 #
-s=[]
+o=[]
 a=input().split()
 for i in a:
-  s.append(i)
-s.sort(reverse=True)
-print(s[0])
+  o.append(i)
+o.sort(reverse=True)
+print(o[0])
